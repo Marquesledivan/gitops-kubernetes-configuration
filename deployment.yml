@@ -18,3 +18,5 @@ spec:
         image: docker.io/kostiscodefresh/simple-web-app:3d9b390
         ports:
         - containerPort: 8080
+
+
